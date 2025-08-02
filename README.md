@@ -63,6 +63,7 @@ g++ Q1.cpp -o SkyCast -I./rapidjson/include $(pkg-config --cflags --libs libcurl
 ./SkyCast
  
  🖼️ Interface Preview
+<pre>
                                                     ============================================================
                                                                           ☁️  S K Y   C A S T  ☀️
                                                     ------------------------------------------------------------
