@@ -1,0 +1,9 @@
+☀️ Sunny: Clear skies with lots of sunlight.
+🌤️ Partly Cloudy: A mix of sun and clouds.
+☁️ Cloudy: Sky is mostly covered with clouds.
+🌧️ Rainy: Rain falling from clouds.
+⛈️ Thunderstorm: Rain with thunder and lightning.
+❄️ Snowy: Snowfall due to freezing temperatures.
+🌫️ Foggy: Low visibility due to water vapor.
+🌪️ Windy: Strong winds, sometimes stormy.
+

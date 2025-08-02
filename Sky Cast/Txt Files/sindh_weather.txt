@@ -1,0 +1,7 @@
+2025-04-28 Monday 38.5 30 Sunny 9
+2025-04-29 Tuesday 36.7 35 Sunny 8
+2025-04-30 Wednesday 35.3 40 Cloudy 7
+2025-05-01 Thursday 37.8 33 Sunny 9
+2025-05-02 Friday 34.0 45 Humid 6
+2025-05-03 Saturday 33.5 50 Humid 6
+2025-05-04 Sunday 39.1 28 Sunny 10
