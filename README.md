@@ -64,10 +64,10 @@ g++ Q1.cpp -o SkyCast -I./rapidjson/include $(pkg-config --cflags --libs libcurl
  
  🖼️ Interface Preview
 <pre>
-                                                    ============================================================
-                                                                          ☁️  S K Y   C A S T  ☀️
-                                                    ------------------------------------------------------------
-                                                              - Real-time Weather and Temperature Updates
+                   ============================================================
+                                    ☁️  S K Y   C A S T  ☀️
+                   ------------------------------------------------------------
+                             - Real-time Weather and Temperature Updates
                                                     ============================================================
                                                                       [1] Check Weather by City Name 
                                                                       [2] Search by Weather Condition
