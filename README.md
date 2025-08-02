@@ -58,3 +58,8 @@
 ```bash
 sudo apt update
 sudo apt install g++ libcurl4-openssl-dev pkg-config rapidjson-dev git
+
+### 2. 📦 Clone RapidJSON (if needed)
+
+git clone https://github.com/Tencent/rapidjson.git
+
