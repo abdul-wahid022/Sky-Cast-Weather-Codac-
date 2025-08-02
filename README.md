@@ -53,13 +53,28 @@
 
 ## ⚙️ Setup Instructions
 
-### 1. 🔧 Install Dependencies
+### . 🔧 Install Dependencies
 
 ```bash
 sudo apt update
 sudo apt install g++ libcurl4-openssl-dev pkg-config rapidjson-dev git
-
-### 2. 📦 Clone RapidJSON (if needed)
-
 git clone https://github.com/Tencent/rapidjson.git
+g++ Q1.cpp -o SkyCast -I./rapidjson/include $(pkg-config --cflags --libs libcurl)
+./SkyCast
+
+============================================================
+☁️  S K Y   C A S T  ☀️
+------------------------------------------------------------
+Real-time Weather and Temperature Updates
+============================================================
+[1] Check Weather by City Name
+[2] Search by Weather Condition
+[3] Search by Temperature
+[4] 5-Day Weather Forecast
+[5] Weather History
+[6] Alerts & Precautions
+[7] Learn About Weather Types
+[8] Exit
+
+
 
